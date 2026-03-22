@@ -44,6 +44,7 @@
     "incremental": true,
     // "moduleResolution": "node",
     "isolatedModules": true,
+    "moduleResolution": "nodenext"
     // "moduleResolution": "node"
   },
   "include": [
