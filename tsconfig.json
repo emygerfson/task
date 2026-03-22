@@ -44,7 +44,7 @@
     "incremental": true,
     // "moduleResolution": "node",
     "isolatedModules": true,
-    "moduleResolution": "node"
+    // "moduleResolution": "node"
   },
   "include": [
     "next-env.d.ts",
